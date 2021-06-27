@@ -28,4 +28,4 @@ wabanex-*.tar
 /priv/static/
 
 # .elixir_ls extension folder
-.elixir_ls
+/.elixir_ls
