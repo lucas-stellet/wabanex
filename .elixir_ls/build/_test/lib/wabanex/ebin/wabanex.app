@@ -3,7 +3,7 @@
                              phoenix,phoenix_ecto,ecto_sql,postgrex,
                              phoenix_live_dashboard,telemetry_metrics,
                              telemetry_poller,gettext,jason,absinthe,
-                             absinthe_plug,plug_cowboy]},
+                             absinthe_plug,crudry,plug_cowboy]},
               {description,"wabanex"},
               {modules,['Elixir.Wabanex','Elixir.Wabanex.Application',
                         'Elixir.Wabanex.DataCase','Elixir.Wabanex.IMC',
